@@ -16,3 +16,6 @@ It will generate the basic **jQuerymobile** code structure like
     		<meta name="viewport" content="width=divece-width,initial-scale=1">        		
     </head>        		
     <body>
+    
+    </body>
+    </html>
