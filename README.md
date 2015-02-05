@@ -1,7 +1,7 @@
 # Sublime_Plugins_JQueryMobile
-Download and Paste it to the Sublime Text 3\Packages\User folder
-Goto **Preferences -> Key Bindings - User** and create shortcut to 
-call the plugins
+
+Download and Paste it to the Sublime Text 3\Packages\User folder 
+Goto    **Preferences -> Key Bindings - User** and create shortcut to  call the plugins
 
      [
     	{"keys": ["ctrl+m"], "command": "mobile"}	
