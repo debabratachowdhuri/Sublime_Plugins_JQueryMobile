@@ -1,7 +1,5 @@
 # Sublime_Plugins_JQueryMobile
 Download and Paste it to the Sublime Text 3\Packages\User folder
-Open a new Buffer in Sublime Text Editor
-Press **Ctrt+M** or Open Sublime Console **(Ctrl + `)**  and 
 Goto **Preferences -> Key Bindings - User** and create shortcut to 
 call the plugins
 
@@ -9,6 +7,8 @@ call the plugins
     	{"keys": ["ctrl+m"], "command": "mobile"}	
      ]
 **Now** 
+Open a new Buffer in Sublime Text Editor
+Press **Ctrt+M** or Open Sublime Console **(Ctrl + `)**  and 
 Run this command **view.run_command("mobile")** or Press **CTRL + m**
 It will generate the basic **jQuerymobile** code structure like
     <!DOCTYPE html>        		
